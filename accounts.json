@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "updated": 1646536371,
+  "canonical": "https://open.popoway.me/accounts.json",
+  "payload": [
+    {
+      "service": "Steam",
+      "username": "popoway9",
+      "url": "https://steamcommunity.com/id/popoway9",
+      "pclss": "sconst",
+      "icon": "fa-brands fa-steam",
+      "visible": true
+    },
+    {
+      "service": "GitHub",
+      "username": "popoway",
+      "url": "https://github.com/popoway",
+      "pclss": "scongh",
+      "icon": "fa-brands fa-github",
+      "visible": true
+    },
+    {
+      "service": "Google Maps",
+      "username": "popoway",
+      "url": "https://www.google.com/maps/contrib/115663004418734346603",
+      "pclss": "scongm",
+      "icon": "fa-solid fa-street-view",
+      "visible": true
+    }
+  ]
+}
