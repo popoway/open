@@ -1,8 +1,40 @@
 {
   "status": "success",
-  "updated": 1646536371,
+  "updated": 1646855092,
   "canonical": "https://open.popoway.me/accounts.json",
   "payload": [
+    {
+      "service": "Instagram",
+      "username": "popoway9",
+      "url": "https://www.instagram.com/popoway9/",
+      "pclss": "sconis",
+      "icon": "fa-brands fa-instagram",
+      "visible": true
+    },
+    {
+      "service": "LinkedIn",
+      "username": "ming-lei",
+      "url": "https://www.linkedin.com/in/ming-lei/",
+      "pclss": "sconli",
+      "icon": "fa-brands fa-linkedin",
+      "visible": true
+    },
+    {
+      "service": "Snapchat",
+      "username": "popoway9",
+      "url": "https://www.snapchat.com/add/popoway9",
+      "pclss": "sconsc",
+      "icon": "fa-brands fa-snapchat",
+      "visible": false
+    },
+    {
+      "service": "Twitter",
+      "username": "popoway9",
+      "url": "https://twitter.com/popoway9",
+      "pclss": "scontw",
+      "icon": "fa-brands fa-twitter",
+      "visible": true
+    },
     {
       "service": "Steam",
       "username": "popoway9",
@@ -20,11 +52,67 @@
       "visible": true
     },
     {
+      "service": "Amazon",
+      "username": "popoway",
+      "url": "https://www.amazon.com/gp/profile/amzn1.account.AE4FO3S6ISVNIVZAFYGF4VFFVNTQ",
+      "pclss": "sconaz",
+      "icon": "fa-brands fa-amazon",
+      "visible": false
+    },
+    {
+      "service": "Airbnb",
+      "username": "Ming Lei",
+      "url": "https://www.airbnb.com/users/show/90131576",
+      "pclss": "sconab",
+      "icon": "fa-brands fa-airbnb",
+      "visible": false
+    },
+    {
       "service": "Google Maps",
       "username": "popoway",
       "url": "https://www.google.com/maps/contrib/115663004418734346603",
       "pclss": "scongm",
       "icon": "fa-solid fa-street-view",
+      "visible": true
+    },
+    {
+      "service": "YouTube",
+      "username": "Ming Lei",
+      "url": "https://www.youtube.com/channel/UCBMac-ovNUq4P0gP-9YDa9Q",
+      "pclss": "sconyt",
+      "icon": "fa-brands fa-youtube",
+      "visible": false
+    },
+    {
+      "service": "Apple Music",
+      "username": "popoway9",
+      "url": "https://music.apple.com/profile/popoway9",
+      "pclss": "sconam",
+      "icon": "fa-solid fa-music",
+      "visible": true
+    },
+    {
+      "service": "Stack Overflow",
+      "username": "popoway",
+      "url": "https://stackoverflow.com/users/8739833/popoway",
+      "pclss": "sconsf",
+      "icon": "fa-brands fa-stack-overflow",
+      "visible": true
+    },
+    {
+      "service": "Stack Exchange",
+      "username": "popoway",
+      "url": "https://stackexchange.com/users/11944036/popoway",
+      "pclss": "sconse",
+      "icon": "fa-brands fa-stack-exchange",
+      "visible": false
+    },
+    {
+      "service": "Devpost",
+      "username": "popoway",
+      "url": "https://devpost.com/popoway",
+      "pclss": "scondp",
+      "icon": "fa-brands fa-dev",
       "visible": true
     }
   ]
