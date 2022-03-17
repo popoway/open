@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "updated": 1647479962,
+  "canonical": "https://open.popoway.me/domains.json",
+  "payload": [
+    {
+      "domain": "popoway.cloud",
+      "active": true
+    },
+    {
+      "domain": "popoway.me",
+      "active": true
+    },
+    {
+      "domain": "popoway.com",
+      "active": true
+    },
+    {
+      "domain": "popoway.cn",
+      "active": true
+    },
+    {
+      "domain": "ming.fyi",
+      "active": true
+    },
+    {
+      "domain": "pcusercontent.ml",
+      "active": false
+    },
+    {
+      "domain": "popoway9.ml",
+      "active": false
+    }
+  ]
+}
