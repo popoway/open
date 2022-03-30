@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "updated": 1646855092,
+  "updated": 1648611542,
   "canonical": "https://open.popoway.me/accounts.json",
   "payload": [
     {
@@ -42,6 +42,14 @@
       "pclss": "sconst",
       "icon": "fa-brands fa-steam",
       "visible": true
+    },
+    {
+      "service": "Stadia",
+      "username": "popoway",
+      "url": "https://stadia.google.com/profile/415268915788481846",
+      "pclss": "sconsa",
+      "icon": "fa-solid fa-gamepad-modern",
+      "visible": false
     },
     {
       "service": "GitHub",
