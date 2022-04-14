@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "updated": 1648611542,
+  "updated": 1649908565,
   "canonical": "https://open.popoway.me/accounts.json",
   "payload": [
     {
@@ -36,6 +36,14 @@
       "visible": true
     },
     {
+      "service": "Telegram",
+      "username": "popoway",
+      "url": "https://t.me/popoway",
+      "pclss": "scontg",
+      "icon": "fa-brands fa-telegram",
+      "visible": false
+    },
+    {
       "service": "Steam",
       "username": "popoway9",
       "url": "https://steamcommunity.com/id/popoway9",
@@ -48,7 +56,7 @@
       "username": "popoway",
       "url": "https://stadia.google.com/profile/415268915788481846",
       "pclss": "sconsa",
-      "icon": "fa-solid fa-gamepad-modern",
+      "icon": "fa-solid fa-gamepad",
       "visible": false
     },
     {
@@ -100,6 +108,14 @@
       "visible": true
     },
     {
+      "service": "SoundCloud",
+      "username": "popoway",
+      "url": "https://soundcloud.com/popoway",
+      "pclss": "sconso",
+      "icon": "fa-brands fa-soundcloud",
+      "visible": false
+    },
+    {
       "service": "Stack Overflow",
       "username": "popoway",
       "url": "https://stackoverflow.com/users/8739833/popoway",
@@ -113,6 +129,14 @@
       "url": "https://stackexchange.com/users/11944036/popoway",
       "pclss": "sconse",
       "icon": "fa-brands fa-stack-exchange",
+      "visible": false
+    },
+    {
+      "service": "WakaTime",
+      "username": "popoway",
+      "url": "https://wakatime.com/@popoway",
+      "pclss": "sconwt",
+      "icon": "fa-regular fa-clock",
       "visible": false
     },
     {
