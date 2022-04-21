@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "updated": 1650585267,
+  "canonical": "https://open.popoway.me/affiliates.json",
+  "payload": [
+    {
+      "service": "DoorDash",
+      "url": "https://drd.sh/uBVOiSX4B5BC2mZT"
+    },
+    {
+      "service": "ibotta",
+      "url": "https://ibotta.onelink.me/iUfE/8cc13c64?friend_code=iibimoo"
+    },
+    {
+      "service": "Tesla",
+      "url": "https://ts.la/ming29792"
+    },
+    {
+      "service": "Vultr",
+      "url": "https://www.vultr.com/?ref=7150195"
+    }
+  ]
+}
