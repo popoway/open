@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "updated": 1651023782,
+  "canonical": "https://open.popoway.me/donates.json",
+  "payload": [
+    {
+      "service": "PayPal",
+      "url": "https://www.paypal.me/popoway",
+      "pclss": "sconpp"
+    },
+    {
+      "service": "Venmo",
+      "url": "https://venmo.com/popoway",
+      "pclss": "sconvm"
+    },
+    {
+      "service": "Buy Me a Coffee",
+      "url": "https://www.buymeacoffee.com/popoway",
+      "pclss": "sconbm"
+    },
+    {
+      "service": "Bitcoin",
+      "url": "https://keybase.io/popoway/sigchain#1101ac08f20d5c28ff065c5c118e3d9cb64ad1aefcc7b8c950158158cc8213570f",
+      "pclss": "sconbc"
+    }
+  ]
+}
