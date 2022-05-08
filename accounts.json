@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "updated": 1649908565,
+  "updated": 1652013979,
   "canonical": "https://open.popoway.me/accounts.json",
   "payload": [
     {
@@ -25,6 +25,14 @@
       "url": "https://www.snapchat.com/add/popoway9",
       "pclss": "sconsc",
       "icon": "fa-brands fa-snapchat",
+      "visible": false
+    },
+    {
+      "service": "TikTok",
+      "username": "popoway9",
+      "url": "https://www.tiktok.com/@popoway9",
+      "pclss": "scontk",
+      "icon": "fa-brands fa-tiktok",
       "visible": false
     },
     {
@@ -146,6 +154,14 @@
       "pclss": "scondp",
       "icon": "fa-brands fa-dev",
       "visible": true
+    },
+    {
+      "service": "Google Developers",
+      "username": "ming",
+      "url": "https://developers.google.com/profile/u/ming",
+      "pclss": "gdev",
+      "icon": "fa-solid fa-code",
+      "visible": false
     }
   ]
 }
