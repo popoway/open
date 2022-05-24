@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "updated": 1652013979,
+  "updated": 1653362932,
   "canonical": "https://open.popoway.me/accounts.json",
   "payload": [
     {
@@ -28,6 +28,14 @@
       "visible": false
     },
     {
+      "service": "WeChat",
+      "username": "popoway",
+      "url": "https://static.popoway.me/docs/popoway.me/wechat/",
+      "pclss": "wechat-qrcode",
+      "icon": "fa-brands fa-weixin",
+      "visible": false
+    },
+    {
       "service": "TikTok",
       "username": "popoway9",
       "url": "https://www.tiktok.com/@popoway9",
@@ -42,6 +50,14 @@
       "pclss": "scontw",
       "icon": "fa-brands fa-twitter",
       "visible": true
+    },
+    {
+      "service": "Weibo",
+      "username": "popoway",
+      "url": "https://www.weibo.com/popoway",
+      "pclss": "sconwb",
+      "icon": "fa-brands fa-weibo",
+      "visible": false
     },
     {
       "service": "Telegram",
@@ -76,6 +92,14 @@
       "visible": true
     },
     {
+      "service": "Gitee",
+      "username": "popoway",
+      "url": "https://gitee.com/popoway",
+      "pclss": "sconge",
+      "icon": "fa-brands fa-git-alt",
+      "visible": false
+    },
+    {
       "service": "Amazon",
       "username": "popoway",
       "url": "https://www.amazon.com/gp/profile/amzn1.account.AE4FO3S6ISVNIVZAFYGF4VFFVNTQ",
@@ -100,6 +124,14 @@
       "visible": true
     },
     {
+      "service": "Picktime",
+      "username": "popoway",
+      "url": "https://www.picktime.com/minglei",
+      "pclss": "sconpt",
+      "icon": "fa-regular fa-calendar-days",
+      "visible": false
+    },
+    {
       "service": "YouTube",
       "username": "Ming Lei",
       "url": "https://www.youtube.com/channel/UCBMac-ovNUq4P0gP-9YDa9Q",
@@ -116,11 +148,27 @@
       "visible": true
     },
     {
+      "service": "Spotify",
+      "username": "Ming Lei",
+      "url": "https://open.spotify.com/user/sugzu2qdjbotlhx4ermdyjsq7",
+      "pclss": "sconsy",
+      "icon": "fa-brands fa-spotify",
+      "visible": false
+    },
+    {
       "service": "SoundCloud",
       "username": "popoway",
       "url": "https://soundcloud.com/popoway",
       "pclss": "sconso",
       "icon": "fa-brands fa-soundcloud",
+      "visible": false
+    },
+    {
+      "service": "Disqus",
+      "username": "popoway",
+      "url": "https://disqus.com/by/popoway/",
+      "pclss": "sconds",
+      "icon": "fa-regular fa-comment",
       "visible": false
     },
     {
