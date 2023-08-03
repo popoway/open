@@ -4,6 +4,14 @@
   "canonical": "https://open.popoway.me/accounts.json",
   "payload": [
     {
+      "service": "LinkedIn",
+      "username": "ming-lei",
+      "url": "https://www.linkedin.com/in/ming-lei/",
+      "pclss": "sconli",
+      "icon": "fa-brands fa-linkedin",
+      "visible": true
+    },
+    {
       "service": "Instagram",
       "username": "popoway9",
       "url": "https://www.instagram.com/popoway9/",
@@ -12,11 +20,11 @@
       "visible": true
     },
     {
-      "service": "LinkedIn",
-      "username": "ming-lei",
-      "url": "https://www.linkedin.com/in/ming-lei/",
-      "pclss": "sconli",
-      "icon": "fa-brands fa-linkedin",
+      "service": "Threads",
+      "username": "popoway9",
+      "url": "https://www.threads.net/@popoway9",
+      "pclss": "scontr",
+      "icon": "fa-solid fa-at",
       "visible": true
     },
     {
@@ -49,7 +57,7 @@
       "url": "https://twitter.com/popoway9",
       "pclss": "scontw",
       "icon": "fa-brands fa-twitter",
-      "visible": true
+      "visible": false
     },
     {
       "service": "Weibo",
