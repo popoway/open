@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "updated": 1647479962,
+  "updated": 1701895078,
   "canonical": "https://open.popoway.me/domains.json",
   "payload": [
     {
@@ -21,6 +21,10 @@
     },
     {
       "domain": "ming.fyi",
+      "active": true
+    },
+    {
+      "domain": "leim.ing",
       "active": true
     },
     {
